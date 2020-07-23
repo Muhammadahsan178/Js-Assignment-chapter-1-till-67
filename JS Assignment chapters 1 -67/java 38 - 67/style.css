@@ -1,0 +1,11 @@
+.image{
+    height: 300px;
+    width: 300px;
+    cursor: pointer;
+}
+
+.MainImage{
+    background-color: gray !important;
+    height: 400px;
+    width: 800px;
+}
